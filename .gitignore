@@ -1,0 +1,9 @@
+bin
+obj
+packages
+Coordination/.gradle/
+Coordination/.idea/libraries/
+Coordination/.idea/workspace.xml
+Coordination/build/
+Coordination/app/build/
+Coordination/local.properties/
